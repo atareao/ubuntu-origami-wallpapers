@@ -12,9 +12,9 @@
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
    inkscape:export-filename="/datos/Sync/atareao.es/branding/fondo-youtube-gorilla.png"
-   sodipodi:docname="fondo-youtube-impish-indri.svg"
-   viewBox="0 0 2560 500"
-   height="500"
+   sodipodi:docname="impish-indri.svg"
+   viewBox="0 0 2560 1440"
+   height="1440"
    width="2560"
    id="svg1005"
    version="1.1">
@@ -72,7 +72,7 @@
      inkscape:window-y="150"
      inkscape:window-x="1964"
      inkscape:cy="1661.1331"
-     inkscape:cx="327.0726"
+     inkscape:cx="-2685.7477"
      inkscape:zoom="0.087791496"
      fit-margin-bottom="0"
      fit-margin-right="0"
@@ -91,8 +91,8 @@
      bordercolor="#666666"
      pagecolor="#ffffff" />
   <rect
-     y="-2.8421709e-14"
-     x="-5.9631349e-09"
+     y="0"
+     x="0"
      height="1440"
      width="2560"
      id="rect1574"
