@@ -6,7 +6,7 @@
 
 ## Groovy Gorilla
 
-![Groovy Gorilla](wallpapers/2560x1440/groovy-gorilla.png))
+![Groovy Gorilla](wallpapers/2560x1440/groovy-gorilla.png)
 
 ## Hirsute Hippo
 
